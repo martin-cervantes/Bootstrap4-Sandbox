@@ -2,6 +2,10 @@
 
 ![screenshot](./Screenshot.png)
 
+## :mag: Live Demo
+
+[Live Demo Link](https://mcervantes71.github.io/Bootstrap4-Sandbox/1_1_basic_typography.html)
+
 ## :package: Built With
 
 - HTML
